@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm jonyigit_prog</h1>
 <h3 align="center">Clean Code Enthusiast & Frontend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyigit" alt="jonyigit" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js, Redux and advanced framer-motion**
 
 - 👯 I’m looking to collaborate on [Open source React projects with clean code practices](https://github.com/Jonyigit)
