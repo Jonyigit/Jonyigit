@@ -18,47 +18,90 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h3 align="left">🚀 Texnologiyalarim:</h3>
+
 <p align="left">
+  <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
+  
+  <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
+  
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  
+  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
+  
+  <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
+  
+  <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
   </a>
+  
+  <!-- Redux -->
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
+  
+  <!-- Sass -->
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   </a>
+  
+  <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
+  
+  <!-- Webpack -->
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
   </a>
+  
+  <!-- Vue.js -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   </a>
+  
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+
+  <!-- Vite -->
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  </a>
+
+  <!-- React Hook Form (No official icon, using React icon as placeholder) -->
+  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/react-hook-form/react-hook-form/HEAD/logo.svg" alt="React Hook Form" width="40" height="40"/>
+  </a>
+
+  <!-- Framer Motion -->
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="Framer Motion" width="40" height="40"/>
+  </a>
 </p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonyigit&show_icons=true&locale=en&layout=compact" alt="jonyigit" /></p>
 
