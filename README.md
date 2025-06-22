@@ -85,21 +85,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-
-  <!-- Vite -->
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-  </a>
-
-  <!-- React Hook Form (No official icon, using React icon as placeholder) -->
-  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/react-hook-form/react-hook-form/HEAD/logo.svg" alt="React Hook Form" width="40" height="40"/>
-  </a>
-
-  <!-- Framer Motion -->
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="Framer Motion" width="40" height="40"/>
-  </a>
 </p>
 
 
