@@ -18,8 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">🚀 Texnologiyalarim:</h3>
-
 <p align="left">
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
