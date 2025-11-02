@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm jonyigit_prog</h1>
 <h3 align="center">Clean Code Enthusiast & Frontend Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jonyigit&label=Profile%20views&color=0e75b6&style=flat" alt="shakhriyor-dev" /> </p>
+
 - 🌱 I’m currently learning **Next.js, Redux and advanced framer-motion**
 
 - 👯 I’m looking to collaborate on [Open source React projects with clean code practices](https://github.com/Jonyigit)
